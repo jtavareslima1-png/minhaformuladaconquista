@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fórmula da Reconquista - Reconquiste o Amor da Sua Vida</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fdfdfd;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #e91e63, #880e4f);
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    .container {
+      width: 90%;
+      max-width: 1000px;
+      margin: 30px auto;
+    }
+    .section {
+      background: white;
+      padding: 25px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #e91e63;
+    }
+    .benefits ul {
+      list-style: none;
+      padding: 0;
+    }
+    .benefits li {
+      margin: 12px 0;
+      padding-left: 25px;
+      position: relative;
+    }
+    .benefits li::before {
+      content: "❤";
+      position: absolute;
+      left: 0;
+      color: #e91e63;
+      font-weight: bold;
+    }
+    .testimonials p {
+      font-style: italic;
+      margin-bottom: 15px;
+      border-left: 4px solid #e91e63;
+      padding-left: 10px;
+    }
+    .cta {
+      text-align: center;
+      padding: 30px 20px;
+    }
+    .cta a {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 1.3rem;
+      background: #e91e63;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .cta a:hover {
+      background: #c2185b;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #333;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Você quer reconquistar o amor da sua vida?</h1>
+    <p>Descubra a Fórmula da Reconquista e tenha de volta quem você tanto ama.</p>
+  </header>
+
+  <div class="container">
+
+    <section class="section benefits">
+      <h2>O que você vai aprender</h2>
+      <ul>
+        <li>Como entender os sinais e emoções do seu ex</li>
+        <li>Erros mais comuns que afastam ainda mais</li>
+        <li>Estratégias comprovadas para reaproximação</li>
+        <li>Como reconstruir confiança e desejo</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Sobre o Método</h2>
+      <p>
+        O <strong>Fórmula da Reconquista</strong> é um guia completo que ensina técnicas psicológicas e práticas 
+        para você reconquistar a pessoa que ama de forma inteligente e eficaz. 
+        Não importa se a separação foi recente ou há algum tempo — existe um caminho para reatar a relação.
+      </p>
+    </section>
+
+    <section class="section testimonials">
+      <h2>Histórias de Sucesso</h2>
+      <p>"Achei que tudo estava perdido, mas depois de aplicar a fórmula, voltamos a nos falar e hoje estamos juntos novamente." – <strong>Mariana</strong></p>
+      <p>"Aprendi a não cometer os mesmos erros e reconquistei a confiança dela. Recomendo demais!" – <strong>Rodrigo</strong></p>
+    </section>
+
+    <section class="section cta">
+      <h2>Não deixe o amor da sua vida escapar!</h2>
+      <p>O tempo é essencial. Clique abaixo e descubra como ter de volta quem você ama:</p>
+      <a href="SEU-LINK-DE-AFILIADO" target="_blank">Quero Reconquistar Agora</a>
+    </section>
+
+  </div>
+
+  <footer>
+    <p>© 2025 - Página de Afiliado | Fórmula da Reconquista</p>
+  </footer>
+
+</body>
+</html>
