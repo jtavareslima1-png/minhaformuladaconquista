@@ -1,2 +1,2 @@
-# minhaformuladaconquista
-Para quem quer de fato reconquistar seu grande amor.
+# formuladaconquista
+Para quem quer  reconquistar seu grande amor.
